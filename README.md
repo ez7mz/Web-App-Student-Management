@@ -1,5 +1,5 @@
 <p align="center" id="top">
-  <img src="./srcs/assets/java-banner.png" alt="Banner" width="400px">
+  <img src="" alt="Banner" width="400px">
 </p>
 
 <p align="center">
