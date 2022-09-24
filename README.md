@@ -1,9 +1,9 @@
 <p align="center" id="top">
-  <img src="" alt="Banner" width="400px">
+  <img src="./srcs/assets/banner.png" alt="Banner" width="400px">
 </p>
 
 <p align="center">
-    <em>This repository contains the srcs of a Desktop app</em>
+    <em>This repository contains the srcs of a Web app</em>
 </p>
 
 <p align="center">
